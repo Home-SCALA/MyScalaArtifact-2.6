@@ -1,4 +1,6 @@
 # eclipse conf file
+/.cache-main
+/.cache-tests
 
 # idea
 .idea
